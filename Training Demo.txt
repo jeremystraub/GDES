@@ -1,0 +1,5 @@
+Training Demo - Run Demo Script First
+
+TR:{a8e6fc6d-cfe6-4358-a36a-2b56aac7d12d}=000.600>0025:0.05>{a8e6fc6d-cfe6-4358-a36a-2b56aac7d12f}=000.550
+*
+PR:{a8e6fc6d-cfe6-4358-a36a-2b56aac7d12d}=000.500>>{a8e6fc6d-cfe6-4358-a36a-2b56aac7d12f}
